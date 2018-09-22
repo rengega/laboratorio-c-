@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /home/ren/Desktop/Programmazione/laboratorio/num3_18Aprile/gi
 CMakeFiles/git_example_image_viewer.dir/all:
 	$(MAKE) -f CMakeFiles/git_example_image_viewer.dir/build.make CMakeFiles/git_example_image_viewer.dir/depend
 	$(MAKE) -f CMakeFiles/git_example_image_viewer.dir/build.make CMakeFiles/git_example_image_viewer.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ren/Desktop/Programmazione/laboratorio/num3_18Aprile/git_example_image_viewer/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4 "Built target git_example_image_viewer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ren/Desktop/Programmazione/laboratorio/num3_18Aprile/git_example_image_viewer/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5 "Built target git_example_image_viewer"
 .PHONY : CMakeFiles/git_example_image_viewer.dir/all
 
 # Include target in all.
@@ -81,7 +81,7 @@ all: CMakeFiles/git_example_image_viewer.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/git_example_image_viewer.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ren/Desktop/Programmazione/laboratorio/num3_18Aprile/git_example_image_viewer/cmake-build-debug/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ren/Desktop/Programmazione/laboratorio/num3_18Aprile/git_example_image_viewer/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/git_example_image_viewer.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/ren/Desktop/Programmazione/laboratorio/num3_18Aprile/git_example_image_viewer/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/git_example_image_viewer.dir/rule

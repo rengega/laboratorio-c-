@@ -150,6 +150,33 @@ BRANCH1.cpp.s:
 	$(MAKE) -f CMakeFiles/git_example_image_viewer.dir/build.make CMakeFiles/git_example_image_viewer.dir/BRANCH1.cpp.s
 .PHONY : BRANCH1.cpp.s
 
+BRANCH2.o: BRANCH2.cpp.o
+
+.PHONY : BRANCH2.o
+
+# target to build an object file
+BRANCH2.cpp.o:
+	$(MAKE) -f CMakeFiles/git_example_image_viewer.dir/build.make CMakeFiles/git_example_image_viewer.dir/BRANCH2.cpp.o
+.PHONY : BRANCH2.cpp.o
+
+BRANCH2.i: BRANCH2.cpp.i
+
+.PHONY : BRANCH2.i
+
+# target to preprocess a source file
+BRANCH2.cpp.i:
+	$(MAKE) -f CMakeFiles/git_example_image_viewer.dir/build.make CMakeFiles/git_example_image_viewer.dir/BRANCH2.cpp.i
+.PHONY : BRANCH2.cpp.i
+
+BRANCH2.s: BRANCH2.cpp.s
+
+.PHONY : BRANCH2.s
+
+# target to generate assembly for a file
+BRANCH2.cpp.s:
+	$(MAKE) -f CMakeFiles/git_example_image_viewer.dir/build.make CMakeFiles/git_example_image_viewer.dir/BRANCH2.cpp.s
+.PHONY : BRANCH2.cpp.s
+
 BitmapImage.o: BitmapImage.cpp.o
 
 .PHONY : BitmapImage.o
@@ -216,6 +243,9 @@ help:
 	@echo "... BRANCH1.o"
 	@echo "... BRANCH1.i"
 	@echo "... BRANCH1.s"
+	@echo "... BRANCH2.o"
+	@echo "... BRANCH2.i"
+	@echo "... BRANCH2.s"
 	@echo "... BitmapImage.o"
 	@echo "... BitmapImage.i"
 	@echo "... BitmapImage.s"
