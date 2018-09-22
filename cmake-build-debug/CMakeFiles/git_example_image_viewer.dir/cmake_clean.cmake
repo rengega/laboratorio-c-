@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/git_example_image_viewer.dir/BitmapImage.cpp.o"
   "CMakeFiles/git_example_image_viewer.dir/BRANCH1.cpp.o"
   "CMakeFiles/git_example_image_viewer.dir/BRANCH2.cpp.o"
+  "CMakeFiles/git_example_image_viewer.dir/BRanch3.cpp.o"
   "git_example_image_viewer.pdb"
   "git_example_image_viewer"
 )

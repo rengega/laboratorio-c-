@@ -96,6 +96,12 @@
 		<Unit filename="/home/ren/Desktop/Programmazione/laboratorio/num3_18Aprile/git_example_image_viewer/BRANCH2.h">
 			<Option target="git_example_image_viewer"/>
 		</Unit>
+		<Unit filename="/home/ren/Desktop/Programmazione/laboratorio/num3_18Aprile/git_example_image_viewer/BRanch3.cpp">
+			<Option target="git_example_image_viewer"/>
+		</Unit>
+		<Unit filename="/home/ren/Desktop/Programmazione/laboratorio/num3_18Aprile/git_example_image_viewer/BRanch3.h">
+			<Option target="git_example_image_viewer"/>
+		</Unit>
 		<Unit filename="/home/ren/Desktop/Programmazione/laboratorio/num3_18Aprile/git_example_image_viewer/BitmapImage.cpp">
 			<Option target="git_example_image_viewer"/>
 		</Unit>
