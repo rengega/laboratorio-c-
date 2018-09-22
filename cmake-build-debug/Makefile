@@ -123,6 +123,33 @@ git_example_image_viewer/fast:
 	$(MAKE) -f CMakeFiles/git_example_image_viewer.dir/build.make CMakeFiles/git_example_image_viewer.dir/build
 .PHONY : git_example_image_viewer/fast
 
+BRANCH1.o: BRANCH1.cpp.o
+
+.PHONY : BRANCH1.o
+
+# target to build an object file
+BRANCH1.cpp.o:
+	$(MAKE) -f CMakeFiles/git_example_image_viewer.dir/build.make CMakeFiles/git_example_image_viewer.dir/BRANCH1.cpp.o
+.PHONY : BRANCH1.cpp.o
+
+BRANCH1.i: BRANCH1.cpp.i
+
+.PHONY : BRANCH1.i
+
+# target to preprocess a source file
+BRANCH1.cpp.i:
+	$(MAKE) -f CMakeFiles/git_example_image_viewer.dir/build.make CMakeFiles/git_example_image_viewer.dir/BRANCH1.cpp.i
+.PHONY : BRANCH1.cpp.i
+
+BRANCH1.s: BRANCH1.cpp.s
+
+.PHONY : BRANCH1.s
+
+# target to generate assembly for a file
+BRANCH1.cpp.s:
+	$(MAKE) -f CMakeFiles/git_example_image_viewer.dir/build.make CMakeFiles/git_example_image_viewer.dir/BRANCH1.cpp.s
+.PHONY : BRANCH1.cpp.s
+
 BitmapImage.o: BitmapImage.cpp.o
 
 .PHONY : BitmapImage.o
@@ -186,6 +213,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... git_example_image_viewer"
+	@echo "... BRANCH1.o"
+	@echo "... BRANCH1.i"
+	@echo "... BRANCH1.s"
 	@echo "... BitmapImage.o"
 	@echo "... BitmapImage.i"
 	@echo "... BitmapImage.s"
