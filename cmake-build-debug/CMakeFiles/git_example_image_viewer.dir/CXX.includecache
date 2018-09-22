@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ren/Desktop/Programmazione/laboratorio/num3_18Aprile/git_example_image_viewer/BitmapImage.cpp
+BitmapImage.h
+/home/ren/Desktop/Programmazione/laboratorio/num3_18Aprile/git_example_image_viewer/BitmapImage.h
+
+/home/ren/Desktop/Programmazione/laboratorio/num3_18Aprile/git_example_image_viewer/BitmapImage.h
+string
+-
+
+/home/ren/Desktop/Programmazione/laboratorio/num3_18Aprile/git_example_image_viewer/main.cpp
+iostream
+-
+BitmapImage.h
+/home/ren/Desktop/Programmazione/laboratorio/num3_18Aprile/git_example_image_viewer/BitmapImage.h
+
