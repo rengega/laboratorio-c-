@@ -1,0 +1,14 @@
+//
+// Created by ren on 22.9.2018.
+//
+
+#ifndef GIT_EXAMPLE_IMAGE_VIEWER_BRANCH3_H
+#define GIT_EXAMPLE_IMAGE_VIEWER_BRANCH3_H
+
+
+class BRanch3 {
+
+};
+
+
+#endif //GIT_EXAMPLE_IMAGE_VIEWER_BRANCH3_H
